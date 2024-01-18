@@ -1,1 +1,2 @@
 # Movie-Ticket-Booking
+##An Online Ticket Booking System in Python is a web application that enables users to reserve and purchase tickets for events or services online. It typically includes user authentication, event listings, seat or service selection, a shopping cart for transactions, payment integration, booking confirmation, order history, and an admin dashboard for system management. Python web frameworks like Flask or Django are commonly used for development, offering efficiency and versatility.
